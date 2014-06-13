@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.2.26)  13 JUN 2014 15:41
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.2.26)  13 JUN 2014 20:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1532,10 +1532,12 @@ Package babel Info: Redefining portuges shorthand "|
                                                   \fi \fi 
 l.40 
       <./figs/resultados/eletronica.png>]
-File: figs/resultados/octomap.png Graphic file (type png)
- <use figs/resultados/octomap.png>
-Package pdftex.def Info: figs/resultados/octomap.png used on input line 42.
-(pdftex.def)             Requested size: 390.0pt x 262.6376pt.
+<figs/resultados/UI.jpg, id=732, 1300.86pt x 971.63pt>
+File: figs/resultados/UI.jpg Graphic file (type jpg)
+
+<use figs/resultados/UI.jpg>
+Package pdftex.def Info: figs/resultados/UI.jpg used on input line 42.
+(pdftex.def)             Requested size: 390.0pt x 291.29851pt.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 48.
 )
@@ -1543,9 +1545,8 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 82.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 82.
-
-[21pdfTeX warning (ext4): destination with the same identifier (name{figure.2})
- has been already used, duplicate ignored
+ [21pdfTeX warning (ext4): destination with the same identifier (name{figure.2}
+) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
@@ -1562,10 +1563,11 @@ Package babel Info: Redefining portuges shorthand "|
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.82 \include{04_Resultados_Alcancados}
-                                       ]
+                                        <./figs/resultados/UI.jpg>]
 \openout2 = `05_Metodologia.aux'.
 
- (./05_Metodologia.tex
+
+(./05_Metodologia.tex
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 6.
 )
@@ -1579,8 +1581,7 @@ Package babel Info: Redefining portuges shorthand "|
 ]
 \openout2 = `06_Reunioes.aux'.
 
-
-(./06_Reunioes.tex
+ (./06_Reunioes.tex
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 6.
 )
@@ -1602,7 +1603,8 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 85.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 85.
- [25
+
+[25
 
 
 ]
@@ -1622,8 +1624,7 @@ Package babel Info: Redefining portuges shorthand "|
 ]
 \openout2 = `Anexo_I.aux'.
 
-
-(./Anexo_I.tex
+ (./Anexo_I.tex
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 3.
 Package babel Info: Redefining portuges shorthand "|
@@ -1642,7 +1643,7 @@ has been already used, duplicate ignored
                                                   \fi \fi 
 l.13 ...df[pages=-]{anexos/Modelagem_Baterias.pdf}
                                                   ]
-<anexos/Modelagem_Baterias.pdf, id=767, page=1, 722.7pt x 542.025pt>
+<anexos/Modelagem_Baterias.pdf, id=768, page=1, 722.7pt x 542.025pt>
 File: anexos/Modelagem_Baterias.pdf Graphic file (type pdf)
 
 <use anexos/Modelagem_Baterias.pdf, page 1>
@@ -1677,7 +1678,7 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 13.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 13.
- [28 <./anexos/Modelagem_Baterias.pdf>] <anexos/Modelagem_Baterias.pdf, id=784,
+ [28 <./anexos/Modelagem_Baterias.pdf>] <anexos/Modelagem_Baterias.pdf, id=785,
  page=2, 722.7pt x 542.025pt>
 File: anexos/Modelagem_Baterias.pdf Graphic file (type pdf)
 
@@ -1701,7 +1702,7 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 13.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 13.
- [29 <./anexos/Modelagem_Baterias.pdf>] <anexos/Modelagem_Baterias.pdf, id=793,
+ [29 <./anexos/Modelagem_Baterias.pdf>] <anexos/Modelagem_Baterias.pdf, id=794,
  page=3, 722.7pt x 542.025pt>
 File: anexos/Modelagem_Baterias.pdf Graphic file (type pdf)
 
@@ -1725,7 +1726,7 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 13.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 13.
- [30 <./anexos/Modelagem_Baterias.pdf>] <anexos/Modelagem_Baterias.pdf, id=812,
+ [30 <./anexos/Modelagem_Baterias.pdf>] <anexos/Modelagem_Baterias.pdf, id=813,
  page=4, 722.7pt x 542.025pt>
 File: anexos/Modelagem_Baterias.pdf Graphic file (type pdf)
 
@@ -1749,7 +1750,7 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 13.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 13.
- [31 <./anexos/Modelagem_Baterias.pdf>] <anexos/Modelagem_Baterias.pdf, id=817,
+ [31 <./anexos/Modelagem_Baterias.pdf>] <anexos/Modelagem_Baterias.pdf, id=818,
  page=5, 722.7pt x 542.025pt>
 File: anexos/Modelagem_Baterias.pdf Graphic file (type pdf)
 
@@ -1773,7 +1774,7 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 13.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 13.
- [32 <./anexos/Modelagem_Baterias.pdf>] <anexos/Modelagem_Baterias.pdf, id=850,
+ [32 <./anexos/Modelagem_Baterias.pdf>] <anexos/Modelagem_Baterias.pdf, id=851,
  page=6, 722.7pt x 542.025pt>
 File: anexos/Modelagem_Baterias.pdf Graphic file (type pdf)
 
@@ -1797,7 +1798,7 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 13.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 13.
- [33 <./anexos/Modelagem_Baterias.pdf>] <anexos/Modelagem_Baterias.pdf, id=865,
+ [33 <./anexos/Modelagem_Baterias.pdf>] <anexos/Modelagem_Baterias.pdf, id=866,
  page=7, 722.7pt x 542.025pt>
 File: anexos/Modelagem_Baterias.pdf Graphic file (type pdf)
 
@@ -1821,7 +1822,7 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 13.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 13.
- [34 <./anexos/Modelagem_Baterias.pdf>] <anexos/Modelagem_Baterias.pdf, id=878,
+ [34 <./anexos/Modelagem_Baterias.pdf>] <anexos/Modelagem_Baterias.pdf, id=879,
  page=8, 722.7pt x 542.025pt>
 File: anexos/Modelagem_Baterias.pdf Graphic file (type pdf)
 
@@ -1845,7 +1846,7 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 13.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 13.
- [35 <./anexos/Modelagem_Baterias.pdf>] <anexos/Modelagem_Baterias.pdf, id=884,
+ [35 <./anexos/Modelagem_Baterias.pdf>] <anexos/Modelagem_Baterias.pdf, id=885,
  page=9, 722.7pt x 542.025pt>
 File: anexos/Modelagem_Baterias.pdf Graphic file (type pdf)
 
@@ -1869,7 +1870,7 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 13.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 13.
- [36 <./anexos/Modelagem_Baterias.pdf>] <anexos/Modelagem_Baterias.pdf, id=895,
+ [36 <./anexos/Modelagem_Baterias.pdf>] <anexos/Modelagem_Baterias.pdf, id=896,
  page=10, 722.7pt x 542.025pt>
 File: anexos/Modelagem_Baterias.pdf Graphic file (type pdf)
 
@@ -1893,7 +1894,7 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 13.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 13.
- [37 <./anexos/Modelagem_Baterias.pdf>] <anexos/Modelagem_Baterias.pdf, id=909,
+ [37 <./anexos/Modelagem_Baterias.pdf>] <anexos/Modelagem_Baterias.pdf, id=910,
  page=11, 722.7pt x 542.025pt>
 File: anexos/Modelagem_Baterias.pdf Graphic file (type pdf)
 
@@ -1917,7 +1918,7 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 13.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 13.
- [38 <./anexos/Modelagem_Baterias.pdf>] <anexos/Modelagem_Baterias.pdf, id=924,
+ [38 <./anexos/Modelagem_Baterias.pdf>] <anexos/Modelagem_Baterias.pdf, id=925,
  page=12, 722.7pt x 542.025pt>
 File: anexos/Modelagem_Baterias.pdf Graphic file (type pdf)
 
@@ -1941,7 +1942,7 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 13.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 13.
- [39 <./anexos/Modelagem_Baterias.pdf>] <anexos/Modelagem_Baterias.pdf, id=937,
+ [39 <./anexos/Modelagem_Baterias.pdf>] <anexos/Modelagem_Baterias.pdf, id=938,
  page=13, 722.7pt x 542.025pt>
 File: anexos/Modelagem_Baterias.pdf Graphic file (type pdf)
 
@@ -1965,7 +1966,7 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 13.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 13.
- [40 <./anexos/Modelagem_Baterias.pdf>] <anexos/Modelagem_Baterias.pdf, id=942,
+ [40 <./anexos/Modelagem_Baterias.pdf>] <anexos/Modelagem_Baterias.pdf, id=943,
  page=14, 722.7pt x 542.025pt>
 File: anexos/Modelagem_Baterias.pdf Graphic file (type pdf)
 
@@ -1989,7 +1990,7 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 13.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 13.
- [41 <./anexos/Modelagem_Baterias.pdf>] <anexos/Modelagem_Baterias.pdf, id=952,
+ [41 <./anexos/Modelagem_Baterias.pdf>] <anexos/Modelagem_Baterias.pdf, id=953,
  page=15, 722.7pt x 542.025pt>
 File: anexos/Modelagem_Baterias.pdf Graphic file (type pdf)
 
@@ -2044,10 +2045,10 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 110.
 ### semi simple group (level 1) entered at line 10 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 11067 strings out of 493315
- 160906 string characters out of 6137904
+ 11073 strings out of 493315
+ 161023 string characters out of 6137904
  265483 words of memory out of 5000000
- 14130 multiletter control sequences out of 15000+600000
+ 14134 multiletter control sequences out of 15000+600000
  19097 words of font info for 53 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  45i,18n,48p,818b,592s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2056,10 +2057,10 @@ Here is how much of TeX's memory you used:
 </usr/local/texlive/2013/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/l
 ocal/texlive/2013/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/te
 xlive/2013/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on master.pdf (44 pages, 4723740 bytes).
+Output written on master.pdf (44 pages, 5077646 bytes).
 PDF statistics:
- 997 PDF objects out of 1000 (max. 8388607)
+ 998 PDF objects out of 1000 (max. 8388607)
  694 compressed objects within 7 object streams
  61 named destinations out of 1000 (max. 500000)
- 352 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 357 words of extra memory for PDF output out of 10000 (max. 10000000)
 
