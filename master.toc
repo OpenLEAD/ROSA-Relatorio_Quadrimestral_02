@@ -1,0 +1,15 @@
+\select@language {brazilian}
+\contentsline {section}{\numberline {1}Cronograma}{2}{section.1}
+\contentsline {section}{\numberline {2}Financeiro}{7}{section.2}
+\contentsline {section}{\numberline {3}C\IeC {\'a}lculos e Modelagens}{18}{section.3}
+\contentsline {section}{\numberline {4}Resultados Alcan\IeC {\c c}ados}{19}{section.4}
+\contentsline {subsection}{\numberline {4.1}Eletr\IeC {\^o}nica:}{19}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Reconstru\IeC {\c c}\IeC {\~a}o 3D por Sonar}{19}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Interface}{20}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Drivers}{21}{subsection.4.4}
+\contentsline {section}{\numberline {5}Metodologia}{23}{section.5}
+\contentsline {section}{\numberline {6}Reuni\IeC {\~o}es, Palestras e Cursos}{24}{section.6}
+\contentsline {section}{\numberline {7}Viagens}{25}{section.7}
+\contentsline {section}{\numberline {8}Outros}{26}{section.8}
+\contentsline {section}{\numberline {A}Anexo I - Atas}{27}{appendix.A}
+\contentsline {section}{\numberline {A}Anexo IV - Modelagem de Baterias}{27}{appendix.A}
