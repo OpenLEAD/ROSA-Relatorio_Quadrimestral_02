@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.2.26)  17 JUN 2014 09:47
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.2.26)  17 JUN 2014 20:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1493,10 +1493,14 @@ Package pdftex.def Info: figs/resultados/UI.jpg used on input line 42.
 (pdftex.def)             Requested size: 390.0pt x 291.29851pt.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 48.
-File: figs/resultados/UI.jpg Graphic file (type jpg)
- <use figs/resultados/UI.jpg>
-Package pdftex.def Info: figs/resultados/UI.jpg used on input line 55.
-(pdftex.def)             Requested size: 390.0pt x 291.29851pt.
+
+<figs/resultados/teste_bancada.png, id=652, 237.88875pt x 168.02776pt>
+File: figs/resultados/teste_bancada.png Graphic file (type png)
+
+<use figs/resultados/teste_bancada.png>
+Package pdftex.def Info: figs/resultados/teste_bancada.png used on input line 5
+5.
+(pdftex.def)             Requested size: 390.0pt x 275.4827pt.
 )
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 82.
@@ -1531,10 +1535,11 @@ Package babel Info: Redefining portuges shorthand "|
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.82 \include{04_Resultados_Alcancados}
-                                       ]
+                                        <./figs/resultados/teste_bancada.png>]
 \openout2 = `05_Metodologia.aux'.
 
- (./05_Metodologia.tex
+
+(./05_Metodologia.tex
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 6.
 Package babel Info: Redefining portuges shorthand "|
@@ -1552,8 +1557,7 @@ Package babel Info: Redefining portuges shorthand "|
 ]
 \openout2 = `06_Reunioes.aux'.
 
-
-(./06_Reunioes.tex
+ (./06_Reunioes.tex
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 6.
 )
@@ -1575,7 +1579,8 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 85.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 85.
- [24
+
+[24
 
 
 ]
@@ -1595,8 +1600,7 @@ Package babel Info: Redefining portuges shorthand "|
 ]
 \openout2 = `Anexo_I.aux'.
 
-
-(./Anexo_I.tex
+ (./Anexo_I.tex
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 3.
 Package babel Info: Redefining portuges shorthand "|
@@ -1607,7 +1611,7 @@ Package babel Info: Redefining portuges shorthand "|
 
 
 ]
-<atas/minutas.pdf, id=690, page=1, 597.50829pt x 845.0471pt>
+<atas/minutas.pdf, id=691, page=1, 597.50829pt x 845.0471pt>
 File: atas/minutas.pdf Graphic file (type pdf)
 
 <use atas/minutas.pdf, page 1>
@@ -1636,7 +1640,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 5.
  [27 <./atas/minutas.pdf>]
-<atas/minutas.pdf, id=714, page=2, 597.50829pt x 845.0471pt>
+<atas/minutas.pdf, id=715, page=2, 597.50829pt x 845.0471pt>
 File: atas/minutas.pdf Graphic file (type pdf)
 
 <use atas/minutas.pdf, page 2>
@@ -1656,7 +1660,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 5.
  [28 <./atas/minutas.pdf>]
-<atas/minutas.pdf, id=729, page=3, 597.50829pt x 845.0471pt>
+<atas/minutas.pdf, id=730, page=3, 597.50829pt x 845.0471pt>
 File: atas/minutas.pdf Graphic file (type pdf)
 
 <use atas/minutas.pdf, page 3>
@@ -1676,7 +1680,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 5.
  [29 <./atas/minutas.pdf>]
-<atas/minutas.pdf, id=735, page=4, 597.50829pt x 845.0471pt>
+<atas/minutas.pdf, id=736, page=4, 597.50829pt x 845.0471pt>
 File: atas/minutas.pdf Graphic file (type pdf)
 
 <use atas/minutas.pdf, page 4>
@@ -1696,7 +1700,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 5.
  [30 <./atas/minutas.pdf>]
-<atas/minutas.pdf, id=751, page=5, 597.50829pt x 845.0471pt>
+<atas/minutas.pdf, id=752, page=5, 597.50829pt x 845.0471pt>
 File: atas/minutas.pdf Graphic file (type pdf)
 
 <use atas/minutas.pdf, page 5>
@@ -1716,7 +1720,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 5.
  [31 <./atas/minutas.pdf>]
-<atas/minutas.pdf, id=756, page=6, 597.50829pt x 845.0471pt>
+<atas/minutas.pdf, id=757, page=6, 597.50829pt x 845.0471pt>
 File: atas/minutas.pdf Graphic file (type pdf)
 
 <use atas/minutas.pdf, page 6>
@@ -1736,7 +1740,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 5.
  [32 <./atas/minutas.pdf>]
-<atas/minutas.pdf, id=762, page=7, 597.50829pt x 845.0471pt>
+<atas/minutas.pdf, id=763, page=7, 597.50829pt x 845.0471pt>
 File: atas/minutas.pdf Graphic file (type pdf)
 
 <use atas/minutas.pdf, page 7>
@@ -1756,7 +1760,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 5.
  [33 <./atas/minutas.pdf>]
-<atas/minutas.pdf, id=767, page=8, 597.50829pt x 845.0471pt>
+<atas/minutas.pdf, id=768, page=8, 597.50829pt x 845.0471pt>
 File: atas/minutas.pdf Graphic file (type pdf)
 
 <use atas/minutas.pdf, page 8>
@@ -1776,7 +1780,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 5.
  [34 <./atas/minutas.pdf>]
-<atas/minutas.pdf, id=772, page=9, 597.50829pt x 845.0471pt>
+<atas/minutas.pdf, id=773, page=9, 597.50829pt x 845.0471pt>
 File: atas/minutas.pdf Graphic file (type pdf)
 
 <use atas/minutas.pdf, page 9>
@@ -1796,7 +1800,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 5.
  [35 <./atas/minutas.pdf>]
-<atas/minutas.pdf, id=778, page=10, 597.50829pt x 845.0471pt>
+<atas/minutas.pdf, id=779, page=10, 597.50829pt x 845.0471pt>
 File: atas/minutas.pdf Graphic file (type pdf)
 
 <use atas/minutas.pdf, page 10>
@@ -1816,7 +1820,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 5.
  [36 <./atas/minutas.pdf>]
-<atas/minutas.pdf, id=783, page=11, 597.50829pt x 845.0471pt>
+<atas/minutas.pdf, id=784, page=11, 597.50829pt x 845.0471pt>
 File: atas/minutas.pdf Graphic file (type pdf)
 
 <use atas/minutas.pdf, page 11>
@@ -1836,7 +1840,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 5.
  [37 <./atas/minutas.pdf>]
-<atas/minutas.pdf, id=788, page=12, 597.50829pt x 845.0471pt>
+<atas/minutas.pdf, id=789, page=12, 597.50829pt x 845.0471pt>
 File: atas/minutas.pdf Graphic file (type pdf)
 
 <use atas/minutas.pdf, page 12>
@@ -1856,7 +1860,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 5.
  [38 <./atas/minutas.pdf>]
-<atas/minutas.pdf, id=793, page=13, 597.50829pt x 845.0471pt>
+<atas/minutas.pdf, id=794, page=13, 597.50829pt x 845.0471pt>
 File: atas/minutas.pdf Graphic file (type pdf)
 
 <use atas/minutas.pdf, page 13>
@@ -1876,7 +1880,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 5.
  [39 <./atas/minutas.pdf>]
-<atas/minutas.pdf, id=798, page=14, 597.50829pt x 845.0471pt>
+<atas/minutas.pdf, id=799, page=14, 597.50829pt x 845.0471pt>
 File: atas/minutas.pdf Graphic file (type pdf)
 
 <use atas/minutas.pdf, page 14>
@@ -1896,7 +1900,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 5.
  [40 <./atas/minutas.pdf>]
-<atas/minutas.pdf, id=803, page=15, 597.50829pt x 845.0471pt>
+<atas/minutas.pdf, id=804, page=15, 597.50829pt x 845.0471pt>
 File: atas/minutas.pdf Graphic file (type pdf)
 
 <use atas/minutas.pdf, page 15>
@@ -1916,7 +1920,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 5.
  [41 <./atas/minutas.pdf>]
-<atas/minutas.pdf, id=809, page=16, 597.50829pt x 845.0471pt>
+<atas/minutas.pdf, id=810, page=16, 597.50829pt x 845.0471pt>
 File: atas/minutas.pdf Graphic file (type pdf)
 
 <use atas/minutas.pdf, page 16>
@@ -1936,7 +1940,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 5.
  [42 <./atas/minutas.pdf>]
-<atas/minutas.pdf, id=814, page=17, 597.50829pt x 845.0471pt>
+<atas/minutas.pdf, id=815, page=17, 597.50829pt x 845.0471pt>
 File: atas/minutas.pdf Graphic file (type pdf)
 
 <use atas/minutas.pdf, page 17>
@@ -1956,7 +1960,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 5.
  [43 <./atas/minutas.pdf>]
-<atas/minutas.pdf, id=819, page=18, 597.50829pt x 845.0471pt>
+<atas/minutas.pdf, id=820, page=18, 597.50829pt x 845.0471pt>
 File: atas/minutas.pdf Graphic file (type pdf)
 
 <use atas/minutas.pdf, page 18>
@@ -1976,7 +1980,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 5.
  [44 <./atas/minutas.pdf>]
-<atas/minutas.pdf, id=824, page=19, 597.50829pt x 845.0471pt>
+<atas/minutas.pdf, id=825, page=19, 597.50829pt x 845.0471pt>
 File: atas/minutas.pdf Graphic file (type pdf)
 
 <use atas/minutas.pdf, page 19>
@@ -1996,7 +2000,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 5.
  [45 <./atas/minutas.pdf>]
-<atas/minutas.pdf, id=829, page=20, 597.50829pt x 845.0471pt>
+<atas/minutas.pdf, id=830, page=20, 597.50829pt x 845.0471pt>
 File: atas/minutas.pdf Graphic file (type pdf)
 
 <use atas/minutas.pdf, page 20>
@@ -2016,7 +2020,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 5.
  [46 <./atas/minutas.pdf>]
-<atas/minutas.pdf, id=834, page=21, 597.50829pt x 845.0471pt>
+<atas/minutas.pdf, id=835, page=21, 597.50829pt x 845.0471pt>
 File: atas/minutas.pdf Graphic file (type pdf)
 
 <use atas/minutas.pdf, page 21>
@@ -2036,7 +2040,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 5.
  [47 <./atas/minutas.pdf>]
-<atas/minutas.pdf, id=840, page=22, 597.50829pt x 845.0471pt>
+<atas/minutas.pdf, id=841, page=22, 597.50829pt x 845.0471pt>
 File: atas/minutas.pdf Graphic file (type pdf)
 
 <use atas/minutas.pdf, page 22>
@@ -2056,7 +2060,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 5.
  [48 <./atas/minutas.pdf>]
-<atas/minutas.pdf, id=845, page=23, 597.50829pt x 845.0471pt>
+<atas/minutas.pdf, id=846, page=23, 597.50829pt x 845.0471pt>
 File: atas/minutas.pdf Graphic file (type pdf)
 
 <use atas/minutas.pdf, page 23>
@@ -2076,7 +2080,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 5.
  [49 <./atas/minutas.pdf>]
-<atas/minutas.pdf, id=850, page=24, 597.50829pt x 845.0471pt>
+<atas/minutas.pdf, id=851, page=24, 597.50829pt x 845.0471pt>
 File: atas/minutas.pdf Graphic file (type pdf)
 
 <use atas/minutas.pdf, page 24>
@@ -2096,7 +2100,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 5.
  [50 <./atas/minutas.pdf>]
-<atas/minutas.pdf, id=855, page=25, 597.50829pt x 845.0471pt>
+<atas/minutas.pdf, id=856, page=25, 597.50829pt x 845.0471pt>
 File: atas/minutas.pdf Graphic file (type pdf)
 
 <use atas/minutas.pdf, page 25>
@@ -2116,7 +2120,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 5.
  [51 <./atas/minutas.pdf>]
-<atas/minutas.pdf, id=860, page=26, 597.50829pt x 845.0471pt>
+<atas/minutas.pdf, id=861, page=26, 597.50829pt x 845.0471pt>
 File: atas/minutas.pdf Graphic file (type pdf)
 
 <use atas/minutas.pdf, page 26>
@@ -2136,7 +2140,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 5.
  [52 <./atas/minutas.pdf>]
-<atas/minutas.pdf, id=865, page=27, 597.50829pt x 845.0471pt>
+<atas/minutas.pdf, id=866, page=27, 597.50829pt x 845.0471pt>
 File: atas/minutas.pdf Graphic file (type pdf)
 
 <use atas/minutas.pdf, page 27>
@@ -2156,7 +2160,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 5.
  [53 <./atas/minutas.pdf>]
-<atas/minutas.pdf, id=871, page=28, 597.50829pt x 845.0471pt>
+<atas/minutas.pdf, id=872, page=28, 597.50829pt x 845.0471pt>
 File: atas/minutas.pdf Graphic file (type pdf)
 
 <use atas/minutas.pdf, page 28>
@@ -2176,7 +2180,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 5.
  [54 <./atas/minutas.pdf>]
-<atas/minutas.pdf, id=876, page=29, 597.50829pt x 845.0471pt>
+<atas/minutas.pdf, id=877, page=29, 597.50829pt x 845.0471pt>
 File: atas/minutas.pdf Graphic file (type pdf)
 
 <use atas/minutas.pdf, page 29>
@@ -2196,7 +2200,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 5.
  [55 <./atas/minutas.pdf>]
-<atas/minutas.pdf, id=881, page=30, 597.50829pt x 845.0471pt>
+<atas/minutas.pdf, id=882, page=30, 597.50829pt x 845.0471pt>
 File: atas/minutas.pdf Graphic file (type pdf)
 
 <use atas/minutas.pdf, page 30>
@@ -2216,7 +2220,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 5.
  [56 <./atas/minutas.pdf>]
-<atas/minutas.pdf, id=886, page=31, 597.50829pt x 845.0471pt>
+<atas/minutas.pdf, id=887, page=31, 597.50829pt x 845.0471pt>
 File: atas/minutas.pdf Graphic file (type pdf)
 
 <use atas/minutas.pdf, page 31>
@@ -2236,7 +2240,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 5.
  [57 <./atas/minutas.pdf>]
-<atas/minutas.pdf, id=891, page=32, 597.50829pt x 845.0471pt>
+<atas/minutas.pdf, id=892, page=32, 597.50829pt x 845.0471pt>
 File: atas/minutas.pdf Graphic file (type pdf)
 
 <use atas/minutas.pdf, page 32>
@@ -2256,7 +2260,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 5.
  [58 <./atas/minutas.pdf>]
-<atas/minutas.pdf, id=896, page=33, 597.50829pt x 845.0471pt>
+<atas/minutas.pdf, id=897, page=33, 597.50829pt x 845.0471pt>
 File: atas/minutas.pdf Graphic file (type pdf)
 
 <use atas/minutas.pdf, page 33>
@@ -2276,7 +2280,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 5.
  [59 <./atas/minutas.pdf>]
-<atas/minutas.pdf, id=902, page=34, 597.50829pt x 845.0471pt>
+<atas/minutas.pdf, id=903, page=34, 597.50829pt x 845.0471pt>
 File: atas/minutas.pdf Graphic file (type pdf)
 
 <use atas/minutas.pdf, page 34>
@@ -2296,7 +2300,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 5.
  [60 <./atas/minutas.pdf>]
-<atas/minutas.pdf, id=907, page=35, 597.50829pt x 845.0471pt>
+<atas/minutas.pdf, id=908, page=35, 597.50829pt x 845.0471pt>
 File: atas/minutas.pdf Graphic file (type pdf)
 
 <use atas/minutas.pdf, page 35>
@@ -2316,7 +2320,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 5.
  [61 <./atas/minutas.pdf>]
-<atas/minutas.pdf, id=912, page=36, 597.50829pt x 845.0471pt>
+<atas/minutas.pdf, id=913, page=36, 597.50829pt x 845.0471pt>
 File: atas/minutas.pdf Graphic file (type pdf)
 
 <use atas/minutas.pdf, page 36>
@@ -2336,7 +2340,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 5.
  [62 <./atas/minutas.pdf>]
-<atas/minutas.pdf, id=918, page=37, 597.50829pt x 845.0471pt>
+<atas/minutas.pdf, id=919, page=37, 597.50829pt x 845.0471pt>
 File: atas/minutas.pdf Graphic file (type pdf)
 
 <use atas/minutas.pdf, page 37>
@@ -2356,7 +2360,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 5.
  [63 <./atas/minutas.pdf>]
-<atas/minutas.pdf, id=923, page=38, 597.50829pt x 845.0471pt>
+<atas/minutas.pdf, id=924, page=38, 597.50829pt x 845.0471pt>
 File: atas/minutas.pdf Graphic file (type pdf)
 
 <use atas/minutas.pdf, page 38>
@@ -2376,7 +2380,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 5.
  [64 <./atas/minutas.pdf>]
-<atas/minutas.pdf, id=928, page=39, 597.50829pt x 845.0471pt>
+<atas/minutas.pdf, id=929, page=39, 597.50829pt x 845.0471pt>
 File: atas/minutas.pdf Graphic file (type pdf)
 
 <use atas/minutas.pdf, page 39>
@@ -2396,7 +2400,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 5.
  [65 <./atas/minutas.pdf>]
-<atas/minutas.pdf, id=934, page=40, 597.50829pt x 845.0471pt>
+<atas/minutas.pdf, id=935, page=40, 597.50829pt x 845.0471pt>
 File: atas/minutas.pdf Graphic file (type pdf)
 
 <use atas/minutas.pdf, page 40>
@@ -2416,7 +2420,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 5.
  [66 <./atas/minutas.pdf>]
-<atas/minutas.pdf, id=939, page=41, 597.50829pt x 845.0471pt>
+<atas/minutas.pdf, id=940, page=41, 597.50829pt x 845.0471pt>
 File: atas/minutas.pdf Graphic file (type pdf)
 
 <use atas/minutas.pdf, page 41>
@@ -2436,7 +2440,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 5.
  [67 <./atas/minutas.pdf>]
-<atas/minutas.pdf, id=944, page=42, 597.50829pt x 845.0471pt>
+<atas/minutas.pdf, id=945, page=42, 597.50829pt x 845.0471pt>
 File: atas/minutas.pdf Graphic file (type pdf)
 
 <use atas/minutas.pdf, page 42>
@@ -2456,7 +2460,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 5.
  [68 <./atas/minutas.pdf>]
-<atas/minutas.pdf, id=949, page=43, 597.50829pt x 845.0471pt>
+<atas/minutas.pdf, id=950, page=43, 597.50829pt x 845.0471pt>
 File: atas/minutas.pdf Graphic file (type pdf)
 
 <use atas/minutas.pdf, page 43>
@@ -2476,7 +2480,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 5.
  [69 <./atas/minutas.pdf>]
-<atas/minutas.pdf, id=954, page=44, 597.50829pt x 845.0471pt>
+<atas/minutas.pdf, id=955, page=44, 597.50829pt x 845.0471pt>
 File: atas/minutas.pdf Graphic file (type pdf)
 
 <use atas/minutas.pdf, page 44>
@@ -2496,7 +2500,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 5.
  [70 <./atas/minutas.pdf>]
-<atas/minutas.pdf, id=959, page=45, 597.50829pt x 845.0471pt>
+<atas/minutas.pdf, id=960, page=45, 597.50829pt x 845.0471pt>
 File: atas/minutas.pdf Graphic file (type pdf)
 
 <use atas/minutas.pdf, page 45>
@@ -2516,7 +2520,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 5.
  [71 <./atas/minutas.pdf>]
-<atas/minutas.pdf, id=965, page=46, 597.50829pt x 845.0471pt>
+<atas/minutas.pdf, id=966, page=46, 597.50829pt x 845.0471pt>
 File: atas/minutas.pdf Graphic file (type pdf)
 
 <use atas/minutas.pdf, page 46>
@@ -2536,7 +2540,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 5.
  [72 <./atas/minutas.pdf>]
-<atas/minutas.pdf, id=970, page=47, 597.50829pt x 845.0471pt>
+<atas/minutas.pdf, id=971, page=47, 597.50829pt x 845.0471pt>
 File: atas/minutas.pdf Graphic file (type pdf)
 
 <use atas/minutas.pdf, page 47>
@@ -2556,7 +2560,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 5.
  [73 <./atas/minutas.pdf>]
-<atas/minutas.pdf, id=975, page=48, 597.50829pt x 845.0471pt>
+<atas/minutas.pdf, id=976, page=48, 597.50829pt x 845.0471pt>
 File: atas/minutas.pdf Graphic file (type pdf)
 
 <use atas/minutas.pdf, page 48>
@@ -2576,7 +2580,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 5.
  [74 <./atas/minutas.pdf>]
-<atas/minutas.pdf, id=980, page=49, 597.50829pt x 845.0471pt>
+<atas/minutas.pdf, id=981, page=49, 597.50829pt x 845.0471pt>
 File: atas/minutas.pdf Graphic file (type pdf)
 
 <use atas/minutas.pdf, page 49>
@@ -2596,7 +2600,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 5.
  [75 <./atas/minutas.pdf>]
-<atas/minutas.pdf, id=985, page=50, 597.50829pt x 845.0471pt>
+<atas/minutas.pdf, id=986, page=50, 597.50829pt x 845.0471pt>
 File: atas/minutas.pdf Graphic file (type pdf)
 
 <use atas/minutas.pdf, page 50>
@@ -2616,7 +2620,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 5.
  [76 <./atas/minutas.pdf>]
-<atas/minutas.pdf, id=990, page=51, 597.50829pt x 845.0471pt>
+<atas/minutas.pdf, id=991, page=51, 597.50829pt x 845.0471pt>
 File: atas/minutas.pdf Graphic file (type pdf)
 
 <use atas/minutas.pdf, page 51>
@@ -2636,7 +2640,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 5.
  [77 <./atas/minutas.pdf>]
-<atas/minutas.pdf, id=996, page=52, 597.50829pt x 845.0471pt>
+<atas/minutas.pdf, id=997, page=52, 597.50829pt x 845.0471pt>
 File: atas/minutas.pdf Graphic file (type pdf)
 
 <use atas/minutas.pdf, page 52>
@@ -2656,7 +2660,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 5.
  [78 <./atas/minutas.pdf>]
-<atas/minutas.pdf, id=1001, page=53, 597.50829pt x 845.0471pt>
+<atas/minutas.pdf, id=1002, page=53, 597.50829pt x 845.0471pt>
 File: atas/minutas.pdf Graphic file (type pdf)
 
 <use atas/minutas.pdf, page 53>
@@ -2676,7 +2680,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 5.
  [79 <./atas/minutas.pdf>]
-<atas/minutas.pdf, id=1006, page=54, 597.50829pt x 845.0471pt>
+<atas/minutas.pdf, id=1007, page=54, 597.50829pt x 845.0471pt>
 File: atas/minutas.pdf Graphic file (type pdf)
 
 <use atas/minutas.pdf, page 54>
@@ -2708,7 +2712,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 13.
  [81]
-<anexos/Modelagem_Baterias.pdf, id=1017, page=1, 722.7pt x 542.025pt>
+<anexos/Modelagem_Baterias.pdf, id=1018, page=1, 722.7pt x 542.025pt>
 File: anexos/Modelagem_Baterias.pdf Graphic file (type pdf)
 
 <use anexos/Modelagem_Baterias.pdf, page 1>
@@ -2743,7 +2747,7 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 13.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 13.
- [82 <./anexos/Modelagem_Baterias.pdf>] <anexos/Modelagem_Baterias.pdf, id=1034
+ [82 <./anexos/Modelagem_Baterias.pdf>] <anexos/Modelagem_Baterias.pdf, id=1035
 , page=2, 722.7pt x 542.025pt>
 File: anexos/Modelagem_Baterias.pdf Graphic file (type pdf)
 
@@ -2767,7 +2771,7 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 13.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 13.
- [83 <./anexos/Modelagem_Baterias.pdf>] <anexos/Modelagem_Baterias.pdf, id=1043
+ [83 <./anexos/Modelagem_Baterias.pdf>] <anexos/Modelagem_Baterias.pdf, id=1044
 , page=3, 722.7pt x 542.025pt>
 File: anexos/Modelagem_Baterias.pdf Graphic file (type pdf)
 
@@ -2791,7 +2795,7 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 13.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 13.
- [84 <./anexos/Modelagem_Baterias.pdf>] <anexos/Modelagem_Baterias.pdf, id=1062
+ [84 <./anexos/Modelagem_Baterias.pdf>] <anexos/Modelagem_Baterias.pdf, id=1063
 , page=4, 722.7pt x 542.025pt>
 File: anexos/Modelagem_Baterias.pdf Graphic file (type pdf)
 
@@ -2815,7 +2819,7 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 13.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 13.
- [85 <./anexos/Modelagem_Baterias.pdf>] <anexos/Modelagem_Baterias.pdf, id=1067
+ [85 <./anexos/Modelagem_Baterias.pdf>] <anexos/Modelagem_Baterias.pdf, id=1068
 , page=5, 722.7pt x 542.025pt>
 File: anexos/Modelagem_Baterias.pdf Graphic file (type pdf)
 
@@ -2839,7 +2843,7 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 13.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 13.
- [86 <./anexos/Modelagem_Baterias.pdf>] <anexos/Modelagem_Baterias.pdf, id=1101
+ [86 <./anexos/Modelagem_Baterias.pdf>] <anexos/Modelagem_Baterias.pdf, id=1102
 , page=6, 722.7pt x 542.025pt>
 File: anexos/Modelagem_Baterias.pdf Graphic file (type pdf)
 
@@ -2863,7 +2867,7 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 13.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 13.
- [87 <./anexos/Modelagem_Baterias.pdf>] <anexos/Modelagem_Baterias.pdf, id=1116
+ [87 <./anexos/Modelagem_Baterias.pdf>] <anexos/Modelagem_Baterias.pdf, id=1117
 , page=7, 722.7pt x 542.025pt>
 File: anexos/Modelagem_Baterias.pdf Graphic file (type pdf)
 
@@ -2887,7 +2891,7 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 13.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 13.
- [88 <./anexos/Modelagem_Baterias.pdf>] <anexos/Modelagem_Baterias.pdf, id=1129
+ [88 <./anexos/Modelagem_Baterias.pdf>] <anexos/Modelagem_Baterias.pdf, id=1130
 , page=8, 722.7pt x 542.025pt>
 File: anexos/Modelagem_Baterias.pdf Graphic file (type pdf)
 
@@ -2911,7 +2915,7 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 13.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 13.
- [89 <./anexos/Modelagem_Baterias.pdf>] <anexos/Modelagem_Baterias.pdf, id=1135
+ [89 <./anexos/Modelagem_Baterias.pdf>] <anexos/Modelagem_Baterias.pdf, id=1136
 , page=9, 722.7pt x 542.025pt>
 File: anexos/Modelagem_Baterias.pdf Graphic file (type pdf)
 
@@ -2935,7 +2939,7 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 13.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 13.
- [90 <./anexos/Modelagem_Baterias.pdf>] <anexos/Modelagem_Baterias.pdf, id=1146
+ [90 <./anexos/Modelagem_Baterias.pdf>] <anexos/Modelagem_Baterias.pdf, id=1147
 , page=10, 722.7pt x 542.025pt>
 File: anexos/Modelagem_Baterias.pdf Graphic file (type pdf)
 
@@ -2959,7 +2963,7 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 13.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 13.
- [91 <./anexos/Modelagem_Baterias.pdf>] <anexos/Modelagem_Baterias.pdf, id=1159
+ [91 <./anexos/Modelagem_Baterias.pdf>] <anexos/Modelagem_Baterias.pdf, id=1160
 , page=11, 722.7pt x 542.025pt>
 File: anexos/Modelagem_Baterias.pdf Graphic file (type pdf)
 
@@ -2983,7 +2987,7 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 13.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 13.
- [92 <./anexos/Modelagem_Baterias.pdf>] <anexos/Modelagem_Baterias.pdf, id=1174
+ [92 <./anexos/Modelagem_Baterias.pdf>] <anexos/Modelagem_Baterias.pdf, id=1175
 , page=12, 722.7pt x 542.025pt>
 File: anexos/Modelagem_Baterias.pdf Graphic file (type pdf)
 
@@ -3007,7 +3011,7 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 13.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 13.
- [93 <./anexos/Modelagem_Baterias.pdf>] <anexos/Modelagem_Baterias.pdf, id=1187
+ [93 <./anexos/Modelagem_Baterias.pdf>] <anexos/Modelagem_Baterias.pdf, id=1188
 , page=13, 722.7pt x 542.025pt>
 File: anexos/Modelagem_Baterias.pdf Graphic file (type pdf)
 
@@ -3031,7 +3035,7 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 13.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 13.
- [94 <./anexos/Modelagem_Baterias.pdf>] <anexos/Modelagem_Baterias.pdf, id=1192
+ [94 <./anexos/Modelagem_Baterias.pdf>] <anexos/Modelagem_Baterias.pdf, id=1193
 , page=14, 722.7pt x 542.025pt>
 File: anexos/Modelagem_Baterias.pdf Graphic file (type pdf)
 
@@ -3055,7 +3059,7 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 13.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 13.
- [95 <./anexos/Modelagem_Baterias.pdf>] <anexos/Modelagem_Baterias.pdf, id=1202
+ [95 <./anexos/Modelagem_Baterias.pdf>] <anexos/Modelagem_Baterias.pdf, id=1203
 , page=15, 722.7pt x 542.025pt>
 File: anexos/Modelagem_Baterias.pdf Graphic file (type pdf)
 
@@ -3093,10 +3097,10 @@ Package rerunfilecheck Info: File `master.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 110.
  ) 
 Here is how much of TeX's memory you used:
- 11293 strings out of 493315
- 165552 string characters out of 6137904
+ 11298 strings out of 493315
+ 165720 string characters out of 6137904
  266544 words of memory out of 5000000
- 14294 multiletter control sequences out of 15000+600000
+ 14298 multiletter control sequences out of 15000+600000
  19097 words of font info for 53 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  45i,18n,48p,1031b,491s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -3110,10 +3114,10 @@ e/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive
 2013/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2013/te
 xmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2013/texmf-dis
 t/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on master.pdf (98 pages, 5610215 bytes).
+Output written on master.pdf (98 pages, 5871490 bytes).
 PDF statistics:
- 1264 PDF objects out of 1440 (max. 8388607)
+ 1265 PDF objects out of 1440 (max. 8388607)
  865 compressed objects within 9 object streams
  118 named destinations out of 1000 (max. 500000)
- 643 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 648 words of extra memory for PDF output out of 10000 (max. 10000000)
 
