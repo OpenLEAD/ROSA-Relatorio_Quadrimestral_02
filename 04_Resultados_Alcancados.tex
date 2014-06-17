@@ -22,7 +22,7 @@ Por último, em Maio, foi montada uma eletrônica embarcada protótipo para os t
 \noindent
 \subsection{Reconstrução 3D por Sonar}
 
-O princípio por trás da parte reconstrução 3D do projeto é  acumular os dados volumétricos provenientes do sonar em uma representação volumétrica. Esse acúmulo ajuda a resolver o problema de ambiguidade dos dados de sonar. O framework Octomap foi definido durante a fase de definição do projeto como a biblioteca a ser utilizada para o acúmulo volumétrico. Logo, o Octomap foi integrado ao framework Robot Construction Kit (ROCK), framework de robótica utilizado no projeto. A integração foi testada em laboratório utilizando-se um sonar Tritech Micron, a figura \ref{fig:octomap} demonstra o preenchimento volumétrico de preenchendo o mesmo de acordo com a forma de onda proveniente do sonar e a intensidade de reflexão. 
+O princípio por trás da parte reconstrução 3D do projeto é  acumular os dados volumétricos provenientes do sonar em uma representação volumétrica. Esse acúmulo ajuda a resolver o problema de ambiguidade dos dados de sonar. O framework Octomap foi definido durante a fase de definição do projeto como a biblioteca a ser utilizada para o acúmulo volumétrico. Logo, o Octomap foi integrado ao framework Robot Construction Kit (ROCK), framework de robótica utilizado no projeto. A integração foi testada em laboratório utilizando-se um sonar Tritech Micron, a figura \ref{fig:octomap} demonstra o preenchimento volumétrico de acordo com a forma de onda proveniente do sonar e a intensidade de reflexão. 
 
 \begin{figure}[ht!]
     \centering \includegraphics[width=1\columnwidth]{figs/resultados/octomap}
@@ -35,7 +35,7 @@ O princípio por trás da parte reconstrução 3D do projeto é  acumular os dad
 
 A interface de usuário facilita a utilização do robô ROSA, permitindo a compreensão das informações geradas pelo robô de modo intuitivo. 
 No quadrimestre o protótipo da interface foi desenvolvido e implementado em um tablet Android para análise de usabilidade, \ref{fig:userinterface}.   
-A prototipagem é uma técnica de análise iterativo em que os usuários estão ativamente envolvidos no desenvolvimento da interface. 
+A prototipagem é uma técnica de análise interativa em que os usuários estão ativamente envolvidos no desenvolvimento da interface. 
 A descrição detalhada do protótipo de interface encontra-se no Relatrório de Interface de Usuário.
 
 \begin{figure}[ht!]
@@ -46,12 +46,16 @@ A descrição detalhada do protótipo de interface encontra-se no Relatrório de
 
 \noindent
 \subsection{Drivers}
-Os drivers permitem a comunicação entre o computador e os hardwares ou dispositivos conectados ao mesmo. 
+Os drivers permitem a comunicação entre o computador e os hardwares conectados ao mesmo. 
 No quadrimestre foram comprados os sensores especificados no projeto básico, dentre os sensores comprados o sensor indutivo, encoder e profundimetro foram entregues. 
 Os drivers para os dispositivos entregues foram desenvolvidos, integrando os mesmos ao Framework de robótica ROCK. 
-A comunicação e funcionalidade dos dispositivos foram testados em bancada.
+A comunicação e funcionalidade dos dispositivos foram testados em bancada, \ref{fig:teste_bancada}. 
 
-
+\begin{figure}[ht!]
+    \centering \includegraphics[width=1\columnwidth]{figs/resultados/UI}
+    \caption{Tese de Bancada do Sensor Indutivo}
+    \label{fig:teste_bancada}
+\end{figure}
 
 
   
